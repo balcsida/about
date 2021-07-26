@@ -50,7 +50,7 @@ Iterations start every other Monday.
 
 #### Planning artifacts
 
-We use two main artifacts to plan iterations: our [planning document](https://docs.google.com/document/d/1swnkQwd724IB_HP3_Mw3KkFnfl45t-PmWcNo_1gtkQM/edit#), and a GitHub project specific to the iteration. We think of their relative roles as follows:
+We use two main artifacts to plan iterations: our [planning document](https://docs.google.com/document/d/1swnkQwd724IB_HP3_Mw3KkFnfl45t-PmWcNo_1gtkQM/edit#), and a [GitHub project](https://github.com/orgs/sourcegraph/projects/181). We think of their relative roles as follows:
 
 - The planning document is used as a discussion platform to agree on intended outcomes for the iteration. An intended outcome is not "issue #xxxx is closed", but rather "problem X is solved".
 - The GitHub project is an itemized representation of the work needed to accomplish the outcomes listed in the planning document.
@@ -61,7 +61,6 @@ We use two main artifacts to plan iterations: our [planning document](https://do
 On the last Thursday of an iteration:
 
 - The EM for the team:
-    - Creates a GitHub project for the iteration.
     - Creates a section in the [planning document](https://docs.google.com/document/d/1swnkQwd724IB_HP3_Mw3KkFnfl45t-PmWcNo_1gtkQM/edit#), outlining a draft of current projects / priorities.
 - The team:
     - Adds notes to the planning document outlining how they plan to contribute to current projects / priorities, adds any missing projects / priorities, adds any questions on missing context.
